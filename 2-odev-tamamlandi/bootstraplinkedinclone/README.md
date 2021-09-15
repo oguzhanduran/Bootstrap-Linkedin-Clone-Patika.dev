@@ -2,7 +2,7 @@
 ## Bootstrap | Linkedin Homepage Clone
 
 
-git### First Part
+### First Part
 
 <img src="img/linkedin-1.png">
 
