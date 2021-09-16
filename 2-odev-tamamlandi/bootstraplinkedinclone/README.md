@@ -1,5 +1,5 @@
 # Patika.dev
-## Bootstrap | Linkedin Homepage Clone
+## Bootstrap | Linkedin Clone
 
 
 ### First Part
